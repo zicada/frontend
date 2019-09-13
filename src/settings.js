@@ -3,5 +3,4 @@ export const settings = {
   API_SERVER: "",
   TFSERVICES_SERVER: "",
   TFSERVICES_KEY: ""
-  TFSERVICES_KEY: ""
 };
