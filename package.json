@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@bambora/checkout-sdk-web": "^3.0.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "ev-emitter": "^1.1.1",
     "laravel-vue-pagination": "^2.3.0",
     "lodash": "^4.17.15",
